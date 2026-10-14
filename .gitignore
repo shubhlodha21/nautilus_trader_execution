@@ -191,6 +191,7 @@ tests/unit_tests/catalog/
 tests/unit_tests/persistence/catalog/
 /test_data/**/backtest/**
 
+/Diagrams/
 
 # Exceptions
 !/test_data/large/checksums.json
